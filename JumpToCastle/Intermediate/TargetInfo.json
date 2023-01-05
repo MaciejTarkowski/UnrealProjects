@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealLearningKit",
+			"Path": "C:\\Users\\mtark\\Documents\\Unreal\\Projekty\\JumpToCastle\\Source\\UnrealLearningKit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealLearningKitEditor",
+			"Path": "C:\\Users\\mtark\\Documents\\Unreal\\Projekty\\JumpToCastle\\Source\\UnrealLearningKitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

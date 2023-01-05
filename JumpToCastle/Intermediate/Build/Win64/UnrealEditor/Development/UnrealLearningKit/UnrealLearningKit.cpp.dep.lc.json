@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mtark\\documents\\unreal\\projekty\\jumptocastle\\source\\unreallearningkit\\unreallearningkit.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mtark\\documents\\unreal\\projekty\\jumptocastle\\intermediate\\build\\win64\\unreallearningkiteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mtark\\documents\\unreal\\projekty\\jumptocastle\\intermediate\\build\\win64\\unrealeditor\\development\\unreallearningkit\\definitions.unreallearningkit.h",
+            "c:\\users\\mtark\\documents\\unreal\\projekty\\jumptocastle\\source\\unreallearningkit\\unreallearningkit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

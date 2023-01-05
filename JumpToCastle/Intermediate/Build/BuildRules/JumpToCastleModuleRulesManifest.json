@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\mtark\\Documents\\Unreal\\Projekty\\JumpToCastle\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"C:\\Users\\mtark\\Documents\\Unreal\\Projekty\\JumpToCastle\\Source\\UnrealLearningKit.Target.cs",
+		"C:\\Users\\mtark\\Documents\\Unreal\\Projekty\\JumpToCastle\\Source\\UnrealLearningKitEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
