@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapeFromDungeon",
+			"Path": "C:\\Users\\mtark\\Documents\\Unreal\\UnrealProjects\\EscapeFromDungeon\\Source\\EscapeFromDungeon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapeFromDungeonEditor",
+			"Path": "C:\\Users\\mtark\\Documents\\Unreal\\UnrealProjects\\EscapeFromDungeon\\Source\\EscapeFromDungeonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

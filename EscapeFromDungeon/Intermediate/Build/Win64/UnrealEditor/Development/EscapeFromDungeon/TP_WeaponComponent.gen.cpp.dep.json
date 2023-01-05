@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\escapefromdungeon\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\intermediate\\build\\win64\\escapefromdungeoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\intermediate\\build\\win64\\unrealeditor\\development\\escapefromdungeon\\definitions.escapefromdungeon.h",
+            "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\source\\escapefromdungeon\\tp_weaponcomponent.h",
+            "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\escapefromdungeon\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

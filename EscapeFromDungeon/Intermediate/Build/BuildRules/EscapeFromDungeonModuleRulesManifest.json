@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\mtark\\Documents\\Unreal\\UnrealProjects\\EscapeFromDungeon\\Source\\EscapeFromDungeon\\EscapeFromDungeon.Build.cs",
+		"C:\\Users\\mtark\\Documents\\Unreal\\UnrealProjects\\EscapeFromDungeon\\Source\\EscapeFromDungeon.Target.cs",
+		"C:\\Users\\mtark\\Documents\\Unreal\\UnrealProjects\\EscapeFromDungeon\\Source\\EscapeFromDungeonEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
