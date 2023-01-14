@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\source\\escapefromdungeon\\escapefromdungeon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\intermediate\\build\\win64\\escapefromdungeoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\intermediate\\build\\win64\\unrealeditor\\development\\escapefromdungeon\\definitions.escapefromdungeon.h",
+            "c:\\users\\mtark\\documents\\unreal\\unrealprojects\\escapefromdungeon\\source\\escapefromdungeon\\escapefromdungeon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
